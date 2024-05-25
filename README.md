@@ -1,15 +1,18 @@
 
-   # Anderson-lima :pencil2:
+   # Anderson Lima :pencil2:
    <br>
        <p>&nbsp;&nbsp;&nbsp;&nbsp;<strong>Sou programador frond end, atualmente estou aprendendo criar projetos com essas tecnologias:</strong></p>  
    <br>
    
    <strong>&nbsp;&nbsp;&nbsp;# Entre em contato #</strong>
   
-   <p>
+   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    
    <a href="https://www.instagram.com/anderson_lima.pereira/">
    <img alt="icone do instagram"  width="22px" src="https://cdn.icon-icons.com/icons2/3406/PNG/512/instagram_logo_icon_216343.png">
+   </a>&nbsp;
+   <a href="https://www.linkedin.com/in/anderson-lima-291b532b3/">
+   <img alt="icone do linkdin" width="35px" src="https://w7.pngwing.com/pngs/535/279/png-transparent-linkedin-computer-icons-logo-business-professional-network-service-business-angle-text-rectangle.png">
    </a>
      
    </p>
