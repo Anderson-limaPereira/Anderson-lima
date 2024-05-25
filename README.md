@@ -1,1 +1,28 @@
-# Anderson-lima
+
+   # Anderson-lima :pencil2:
+   <br>
+       <p>&nbsp;&nbsp;&nbsp;&nbsp;<strong>Sou programador frond end, atualmente estou aprendendo criar projetos com essas tecnologias:</strong></p>  
+   <br>
+   
+   <strong>&nbsp;&nbsp;&nbsp;# Entre em contato #</strong>
+  
+   <p>
+   
+   <a href="https://www.instagram.com/anderson_lima.pereira/">
+   <img alt="icone do instagram"  width="22px" src="https://cdn.icon-icons.com/icons2/3406/PNG/512/instagram_logo_icon_216343.png">
+   </a>
+     
+   </p>
+   <br>
+  
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <td>&nbsp;<strong>Estudando<td/>
+<br>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<br>
+<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
